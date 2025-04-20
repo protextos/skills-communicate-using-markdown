@@ -12,3 +12,5 @@ Text under Header Style 5.
 Text under Header Style 6. 
 
 This is to test and view the different header styles. 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
