@@ -14,3 +14,18 @@ Text under Header Style 6.
 This is to test and view the different header styles. 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+#### Code snippets
+
+##### Standard
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+##### Javascript
+
+``` javascript
+var myVar = "Hello, world!";
+```
