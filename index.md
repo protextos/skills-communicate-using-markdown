@@ -1,3 +1,46 @@
+#### 
+
+#### Superscript
+X^2^
+
+#### Subscript
+H~2~O
+
+#### Highlight
+I need to highlight these ==very important words==.
+
+#### Table
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+#### Fenced Code Block
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+#### Footnote
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+
+#### Definition List
+term
+: definition
+
+
+
+
+
+#### Blockquote
+> Blockquote example
+
+
 # Header style 1
 Text under Header Style 1.
 ## Header style 2
@@ -34,3 +77,6 @@ var myVar = "Hello, world!";
 - [x] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
+
+
+ 
